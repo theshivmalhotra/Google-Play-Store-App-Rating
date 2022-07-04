@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Project Name
+=======
+# Google-Play-Store-App-Rating
+>>>>>>> 3428df93b7d91f16e8af1ed6e73851fe079b7dee
 > Outline a brief description of your project.
 
 
@@ -49,4 +53,8 @@ Created by [@githubusername] - feel free to contact me!
 <!-- ## License -->
 <!-- This project is open source and available under the [... License](). -->
 
+<<<<<<< HEAD
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+=======
+<!-- You don't have to include all sections - just the one's relevant to your project -->
+>>>>>>> 3428df93b7d91f16e8af1ed6e73851fe079b7dee
